@@ -4866,3 +4866,19 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 	}
 
 }
+
+.center {
+	text-align: center;
+}
+
+.history {
+	background-color: #d8cfbd;
+}
+
+.home {
+	background-color: #b4b7c4;
+	position: relative;
+	margin: 0 auto;
+	width: calc(100% - 4rem);
+	max-width: 72rem;
+	z-index: 2;
